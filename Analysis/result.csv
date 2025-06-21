@@ -1,0 +1,4 @@
+,interpro_id,interpro_desc,analysis,start,end,significance
+0,IPR002338,"Hemoglobin, alpha-type",CDD,3,142,"hamoglobin complex, oxygen transporter"
+1,IPR000971,Globin,Pfam,27,137,heme binding
+2,IPR002339,"Hemoglobin, pi",PRINTS,4,29,Iron ion biniding
